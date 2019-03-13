@@ -11,5 +11,5 @@ Brazilian Portuguese Course on Python for Data Science and Machine Learning <br>
 <https://www.udemy.com/python-para-data-science-e-machine-learning><br> 
 
 An Introduction to Statistical Learning<br>
-Online Course: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+Online Course: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about Available Until 12/31/2020<br>
 Book: https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf<br>
