@@ -1,0 +1,11 @@
+589  git status
+590  git add Introduction\ to\ Statistical\ Learning\ R\ Seventh\ Printing.pdf 
+591  git status
+592  git commit -m "First book i read"
+593  git status
+594  git push
+
+mkdir lib
+mv hello.html lib
+git add lib/hello.html
+git rm hello.html
